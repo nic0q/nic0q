@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning Javascript
 - 🖥️ I’m currently studying Civil Informatics Engineering at Universidad de Santiago de Chile 🦁🇨🇱
-- ⚡ I love to play piano 🎵 read 📘 and workout 🏋️‍
+- ⚡ I love to play piano 🎹 🎵 read 📘 and workout 🏋️‍
 
 
