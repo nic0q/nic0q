@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning Backend, **SpringBoot, Mysql**
 - 🖥️ I’m currently studying Software Engineering at Universidad de Santiago de Chile 🦁🇨🇱
-- ⚡ I love to play piano 🎹 🎵 read 📘 and workout 🏋️‍
+- ⚡ I love Ariana Grande, play piano 🎹 🎵 read 📘 and workout 🏋️‍
 
 
