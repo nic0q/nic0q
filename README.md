@@ -6,7 +6,7 @@ I'm Nícolas F. Cheneaux, a passionate software developer. I currently work as a
 
 Passionate about crafting interactive and intuitive user experiences, I specialize in front-end web development, combining modern frameworks with best practice design patterns.
 
-Right now I'm fully soaking of knowledge in banking industry first line of technologies, agile methodology, keeping focus on good practices, technical debt, code smells and vanguard security, development methodologies.
+Right now I'm fully soaking of knowledge in banking industry first line of technologies, agile methodology, keeping focus on good practices, testing all everything that moves, technical debt, code smells and vanguard security, development methodologies.
 
 
 # 💻 Tech Stack
