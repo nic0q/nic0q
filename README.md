@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Nícolas F. Cheneaux, a passionate software developer. I currently work as a Fullstack Developer at Kibernum Chile 🆑 for multinational bank 🏦. </br>
+I'm Nícolas F. Cheneaux, a passionate software developer. I currently work as a Fullstack Developer at Vr Digital 🆑 for insurance company, mortgage/banking industry 🏦. </br>
 
 # 🚀 Expertise
 
