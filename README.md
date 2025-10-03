@@ -1,6 +1,7 @@
 # 👋 Hi there
 
 I'm Nícolas F. Cheneaux, a Software Engineer. I currently work as a Software Engineer at Bice Vida 🆑, a mortgage/banking company 🏦. </br>
+Backend specialist.
 
 # 🚀 Expertise
 
